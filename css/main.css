@@ -1,0 +1,25 @@
+#txt{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #222222;
+    margin: 30px 0 30px 0;
+}
+#btn{
+    color: #222222;
+    text-transform: uppercase;
+    padding: 10px;
+    border-radius: 2px;
+    border: 1px solid darkkhaki;
+    background: cornsilk;
+}
+.success{
+    font-size: 20px;
+    margin-top: 10px;
+    color: darkslategrey;
+}
+.danger{
+    font-size: 20px;
+    margin-top: 10px;
+    color: darkred;
+}
